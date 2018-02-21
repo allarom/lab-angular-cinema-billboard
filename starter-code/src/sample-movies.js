@@ -1,4 +1,4 @@
-[
+const moviesSample: any = [
   {
     id: 1,
     title: "The Shawshank Redemption",
@@ -92,3 +92,4 @@
     ]
   }
 ]
+
