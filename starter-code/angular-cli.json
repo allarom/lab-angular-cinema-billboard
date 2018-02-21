@@ -52,6 +52,9 @@
   "defaults": {
     "styleExt": "css",
     "prefixInterfaces": false,
+    "serve": {
+      "port": 4201
+    },
     "inline": {
       "style": false,
       "template": false
